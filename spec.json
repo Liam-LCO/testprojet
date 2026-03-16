@@ -4,6 +4,11 @@
       "title": "Accueil",
       "slug": "accueil",
       "blocks": []
+    },
+    {
+      "title": "test",
+      "slug": "test",
+      "blocks": []
     }
   ]
 }
